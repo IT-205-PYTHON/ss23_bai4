@@ -1,0 +1,12 @@
+===== BÁO CÁO HỌC TẬP RIKKEI ACADEMY =====
+Thời gian tạo: 16/06/2026 14:15:39
+--------------------------------------------
+Tổng số sinh viên     : 3
+Số SV đạt yêu cầu    : 2
+Số SV cần cải thiện  : 1
+--------------------------------------------
+Chi tiết từng sinh viên:
+  [SV001] Nguyễn Văn A - ĐTB: 8.17 - Giỏi
+  [SV002] Trần Thị B - ĐTB: 4.83 - Yếu
+  [SV003] Lê Văn C - ĐTB: 9.00 - Giỏi
+============================================
